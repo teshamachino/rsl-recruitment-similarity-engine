@@ -1,0 +1,211 @@
+Target_Player,Target_Team,Target_Pos,Compared_Player,Compared_Team,Compared_Pos,Similarity_Score
+Diego Luna,Real Salt Lake,Attacking Mid,Chicho Arango,Real Salt Lake,Forward,79.68
+Diego Luna,Real Salt Lake,Attacking Mid,Pablo Ruiz,Real Salt Lake,Central Mid,58.7
+Diego Luna,Real Salt Lake,Attacking Mid,Justen Glad,Real Salt Lake,Center Back,87.16
+Diego Luna,Real Salt Lake,Attacking Mid,Braian Ojeda,Real Salt Lake,Defensive Mid,66.44
+Diego Luna,Real Salt Lake,Attacking Mid,Luciano Acosta,FC Cincinnati,Attacking Mid,93.91
+Diego Luna,Real Salt Lake,Attacking Mid,Riqui Puig,LA Galaxy,Forward,91.33
+Diego Luna,Real Salt Lake,Attacking Mid,Hany Mukhtar,Nashville SC,Central Mid,76.57
+Diego Luna,Real Salt Lake,Attacking Mid,Cucho Hernández,Columbus Crew,Center Back,74.54
+Diego Luna,Real Salt Lake,Attacking Mid,Denis Bouanga,LAFC,Defensive Mid,79.3
+Diego Luna,Real Salt Lake,Attacking Mid,Evander,Portland Timbers,Attacking Mid,66.18
+Diego Luna,Real Salt Lake,Attacking Mid,Emil Forsberg,NY Red Bulls,Forward,78.13
+Diego Luna,Real Salt Lake,Attacking Mid,Hector Herrera,Houston Dynamo,Central Mid,64.35
+Diego Luna,Real Salt Lake,Attacking Mid,Carles Gil,New England Revolution,Center Back,80.58
+Diego Luna,Real Salt Lake,Attacking Mid,Matt Miazga,FC Cincinnati,Defensive Mid,84.21
+Chicho Arango,Real Salt Lake,Forward,Diego Luna,Real Salt Lake,Attacking Mid,79.68
+Chicho Arango,Real Salt Lake,Forward,Pablo Ruiz,Real Salt Lake,Central Mid,68.47
+Chicho Arango,Real Salt Lake,Forward,Justen Glad,Real Salt Lake,Center Back,71.43
+Chicho Arango,Real Salt Lake,Forward,Braian Ojeda,Real Salt Lake,Defensive Mid,36.64
+Chicho Arango,Real Salt Lake,Forward,Luciano Acosta,FC Cincinnati,Attacking Mid,67.66
+Chicho Arango,Real Salt Lake,Forward,Riqui Puig,LA Galaxy,Forward,62.75
+Chicho Arango,Real Salt Lake,Forward,Hany Mukhtar,Nashville SC,Central Mid,77.81
+Chicho Arango,Real Salt Lake,Forward,Cucho Hernández,Columbus Crew,Center Back,58.35
+Chicho Arango,Real Salt Lake,Forward,Denis Bouanga,LAFC,Defensive Mid,75.1
+Chicho Arango,Real Salt Lake,Forward,Evander,Portland Timbers,Attacking Mid,48.99
+Chicho Arango,Real Salt Lake,Forward,Emil Forsberg,NY Red Bulls,Forward,94.77
+Chicho Arango,Real Salt Lake,Forward,Hector Herrera,Houston Dynamo,Central Mid,94.04
+Chicho Arango,Real Salt Lake,Forward,Carles Gil,New England Revolution,Center Back,66.8
+Chicho Arango,Real Salt Lake,Forward,Matt Miazga,FC Cincinnati,Defensive Mid,66.48
+Pablo Ruiz,Real Salt Lake,Central Mid,Diego Luna,Real Salt Lake,Attacking Mid,58.7
+Pablo Ruiz,Real Salt Lake,Central Mid,Chicho Arango,Real Salt Lake,Forward,68.47
+Pablo Ruiz,Real Salt Lake,Central Mid,Justen Glad,Real Salt Lake,Center Back,68.74
+Pablo Ruiz,Real Salt Lake,Central Mid,Braian Ojeda,Real Salt Lake,Defensive Mid,43.05
+Pablo Ruiz,Real Salt Lake,Central Mid,Luciano Acosta,FC Cincinnati,Attacking Mid,61.49
+Pablo Ruiz,Real Salt Lake,Central Mid,Riqui Puig,LA Galaxy,Forward,42.44
+Pablo Ruiz,Real Salt Lake,Central Mid,Hany Mukhtar,Nashville SC,Central Mid,91.66
+Pablo Ruiz,Real Salt Lake,Central Mid,Cucho Hernández,Columbus Crew,Center Back,67.2
+Pablo Ruiz,Real Salt Lake,Central Mid,Denis Bouanga,LAFC,Defensive Mid,94.15
+Pablo Ruiz,Real Salt Lake,Central Mid,Evander,Portland Timbers,Attacking Mid,79.52
+Pablo Ruiz,Real Salt Lake,Central Mid,Emil Forsberg,NY Red Bulls,Forward,55.92
+Pablo Ruiz,Real Salt Lake,Central Mid,Hector Herrera,Houston Dynamo,Central Mid,63.86
+Pablo Ruiz,Real Salt Lake,Central Mid,Carles Gil,New England Revolution,Center Back,55.11
+Pablo Ruiz,Real Salt Lake,Central Mid,Matt Miazga,FC Cincinnati,Defensive Mid,66.39
+Justen Glad,Real Salt Lake,Center Back,Diego Luna,Real Salt Lake,Attacking Mid,87.16
+Justen Glad,Real Salt Lake,Center Back,Chicho Arango,Real Salt Lake,Forward,71.43
+Justen Glad,Real Salt Lake,Center Back,Pablo Ruiz,Real Salt Lake,Central Mid,68.74
+Justen Glad,Real Salt Lake,Center Back,Braian Ojeda,Real Salt Lake,Defensive Mid,88.6
+Justen Glad,Real Salt Lake,Center Back,Luciano Acosta,FC Cincinnati,Attacking Mid,86.43
+Justen Glad,Real Salt Lake,Center Back,Riqui Puig,LA Galaxy,Forward,67.93
+Justen Glad,Real Salt Lake,Center Back,Hany Mukhtar,Nashville SC,Central Mid,72.25
+Justen Glad,Real Salt Lake,Center Back,Cucho Hernández,Columbus Crew,Center Back,89.3
+Justen Glad,Real Salt Lake,Center Back,Denis Bouanga,LAFC,Defensive Mid,84.38
+Justen Glad,Real Salt Lake,Center Back,Evander,Portland Timbers,Attacking Mid,64.02
+Justen Glad,Real Salt Lake,Center Back,Emil Forsberg,NY Red Bulls,Forward,76.79
+Justen Glad,Real Salt Lake,Center Back,Hector Herrera,Houston Dynamo,Central Mid,63.12
+Justen Glad,Real Salt Lake,Center Back,Carles Gil,New England Revolution,Center Back,79.95
+Justen Glad,Real Salt Lake,Center Back,Matt Miazga,FC Cincinnati,Defensive Mid,66.0
+Braian Ojeda,Real Salt Lake,Defensive Mid,Diego Luna,Real Salt Lake,Attacking Mid,66.44
+Braian Ojeda,Real Salt Lake,Defensive Mid,Chicho Arango,Real Salt Lake,Forward,36.64
+Braian Ojeda,Real Salt Lake,Defensive Mid,Pablo Ruiz,Real Salt Lake,Central Mid,43.05
+Braian Ojeda,Real Salt Lake,Defensive Mid,Justen Glad,Real Salt Lake,Center Back,88.6
+Braian Ojeda,Real Salt Lake,Defensive Mid,Luciano Acosta,FC Cincinnati,Attacking Mid,70.36
+Braian Ojeda,Real Salt Lake,Defensive Mid,Riqui Puig,LA Galaxy,Forward,44.13
+Braian Ojeda,Real Salt Lake,Defensive Mid,Hany Mukhtar,Nashville SC,Central Mid,38.97
+Braian Ojeda,Real Salt Lake,Defensive Mid,Cucho Hernández,Columbus Crew,Center Back,70.98
+Braian Ojeda,Real Salt Lake,Defensive Mid,Denis Bouanga,LAFC,Defensive Mid,63.7
+Braian Ojeda,Real Salt Lake,Defensive Mid,Evander,Portland Timbers,Attacking Mid,44.92
+Braian Ojeda,Real Salt Lake,Defensive Mid,Emil Forsberg,NY Red Bulls,Forward,52.38
+Braian Ojeda,Real Salt Lake,Defensive Mid,Hector Herrera,Houston Dynamo,Central Mid,28.11
+Braian Ojeda,Real Salt Lake,Defensive Mid,Carles Gil,New England Revolution,Center Back,76.44
+Braian Ojeda,Real Salt Lake,Defensive Mid,Matt Miazga,FC Cincinnati,Defensive Mid,50.5
+Luciano Acosta,FC Cincinnati,Attacking Mid,Diego Luna,Real Salt Lake,Attacking Mid,93.91
+Luciano Acosta,FC Cincinnati,Attacking Mid,Chicho Arango,Real Salt Lake,Forward,67.66
+Luciano Acosta,FC Cincinnati,Attacking Mid,Pablo Ruiz,Real Salt Lake,Central Mid,61.49
+Luciano Acosta,FC Cincinnati,Attacking Mid,Justen Glad,Real Salt Lake,Center Back,86.43
+Luciano Acosta,FC Cincinnati,Attacking Mid,Braian Ojeda,Real Salt Lake,Defensive Mid,70.36
+Luciano Acosta,FC Cincinnati,Attacking Mid,Riqui Puig,LA Galaxy,Forward,90.42
+Luciano Acosta,FC Cincinnati,Attacking Mid,Hany Mukhtar,Nashville SC,Central Mid,71.25
+Luciano Acosta,FC Cincinnati,Attacking Mid,Cucho Hernández,Columbus Crew,Center Back,75.48
+Luciano Acosta,FC Cincinnati,Attacking Mid,Denis Bouanga,LAFC,Defensive Mid,78.71
+Luciano Acosta,FC Cincinnati,Attacking Mid,Evander,Portland Timbers,Attacking Mid,83.03
+Luciano Acosta,FC Cincinnati,Attacking Mid,Emil Forsberg,NY Red Bulls,Forward,62.37
+Luciano Acosta,FC Cincinnati,Attacking Mid,Hector Herrera,Houston Dynamo,Central Mid,59.95
+Luciano Acosta,FC Cincinnati,Attacking Mid,Carles Gil,New England Revolution,Center Back,83.79
+Luciano Acosta,FC Cincinnati,Attacking Mid,Matt Miazga,FC Cincinnati,Defensive Mid,76.96
+Riqui Puig,LA Galaxy,Forward,Diego Luna,Real Salt Lake,Attacking Mid,91.33
+Riqui Puig,LA Galaxy,Forward,Chicho Arango,Real Salt Lake,Forward,62.75
+Riqui Puig,LA Galaxy,Forward,Pablo Ruiz,Real Salt Lake,Central Mid,42.44
+Riqui Puig,LA Galaxy,Forward,Justen Glad,Real Salt Lake,Center Back,67.93
+Riqui Puig,LA Galaxy,Forward,Braian Ojeda,Real Salt Lake,Defensive Mid,44.13
+Riqui Puig,LA Galaxy,Forward,Luciano Acosta,FC Cincinnati,Attacking Mid,90.42
+Riqui Puig,LA Galaxy,Forward,Hany Mukhtar,Nashville SC,Central Mid,67.27
+Riqui Puig,LA Galaxy,Forward,Cucho Hernández,Columbus Crew,Center Back,67.19
+Riqui Puig,LA Galaxy,Forward,Denis Bouanga,LAFC,Defensive Mid,60.21
+Riqui Puig,LA Galaxy,Forward,Evander,Portland Timbers,Attacking Mid,68.96
+Riqui Puig,LA Galaxy,Forward,Emil Forsberg,NY Red Bulls,Forward,53.21
+Riqui Puig,LA Galaxy,Forward,Hector Herrera,Houston Dynamo,Central Mid,50.83
+Riqui Puig,LA Galaxy,Forward,Carles Gil,New England Revolution,Center Back,59.87
+Riqui Puig,LA Galaxy,Forward,Matt Miazga,FC Cincinnati,Defensive Mid,70.76
+Hany Mukhtar,Nashville SC,Central Mid,Diego Luna,Real Salt Lake,Attacking Mid,76.57
+Hany Mukhtar,Nashville SC,Central Mid,Chicho Arango,Real Salt Lake,Forward,77.81
+Hany Mukhtar,Nashville SC,Central Mid,Pablo Ruiz,Real Salt Lake,Central Mid,91.66
+Hany Mukhtar,Nashville SC,Central Mid,Justen Glad,Real Salt Lake,Center Back,72.25
+Hany Mukhtar,Nashville SC,Central Mid,Braian Ojeda,Real Salt Lake,Defensive Mid,38.97
+Hany Mukhtar,Nashville SC,Central Mid,Luciano Acosta,FC Cincinnati,Attacking Mid,71.25
+Hany Mukhtar,Nashville SC,Central Mid,Riqui Puig,LA Galaxy,Forward,67.27
+Hany Mukhtar,Nashville SC,Central Mid,Cucho Hernández,Columbus Crew,Center Back,75.6
+Hany Mukhtar,Nashville SC,Central Mid,Denis Bouanga,LAFC,Defensive Mid,92.46
+Hany Mukhtar,Nashville SC,Central Mid,Evander,Portland Timbers,Attacking Mid,76.27
+Hany Mukhtar,Nashville SC,Central Mid,Emil Forsberg,NY Red Bulls,Forward,64.23
+Hany Mukhtar,Nashville SC,Central Mid,Hector Herrera,Houston Dynamo,Central Mid,65.48
+Hany Mukhtar,Nashville SC,Central Mid,Carles Gil,New England Revolution,Center Back,51.76
+Hany Mukhtar,Nashville SC,Central Mid,Matt Miazga,FC Cincinnati,Defensive Mid,76.94
+Cucho Hernández,Columbus Crew,Center Back,Diego Luna,Real Salt Lake,Attacking Mid,74.54
+Cucho Hernández,Columbus Crew,Center Back,Chicho Arango,Real Salt Lake,Forward,58.35
+Cucho Hernández,Columbus Crew,Center Back,Pablo Ruiz,Real Salt Lake,Central Mid,67.2
+Cucho Hernández,Columbus Crew,Center Back,Justen Glad,Real Salt Lake,Center Back,89.3
+Cucho Hernández,Columbus Crew,Center Back,Braian Ojeda,Real Salt Lake,Defensive Mid,70.98
+Cucho Hernández,Columbus Crew,Center Back,Luciano Acosta,FC Cincinnati,Attacking Mid,75.48
+Cucho Hernández,Columbus Crew,Center Back,Riqui Puig,LA Galaxy,Forward,67.19
+Cucho Hernández,Columbus Crew,Center Back,Hany Mukhtar,Nashville SC,Central Mid,75.6
+Cucho Hernández,Columbus Crew,Center Back,Denis Bouanga,LAFC,Defensive Mid,74.22
+Cucho Hernández,Columbus Crew,Center Back,Evander,Portland Timbers,Attacking Mid,63.92
+Cucho Hernández,Columbus Crew,Center Back,Emil Forsberg,NY Red Bulls,Forward,56.88
+Cucho Hernández,Columbus Crew,Center Back,Hector Herrera,Houston Dynamo,Central Mid,53.6
+Cucho Hernández,Columbus Crew,Center Back,Carles Gil,New England Revolution,Center Back,47.32
+Cucho Hernández,Columbus Crew,Center Back,Matt Miazga,FC Cincinnati,Defensive Mid,45.08
+Denis Bouanga,LAFC,Defensive Mid,Diego Luna,Real Salt Lake,Attacking Mid,79.3
+Denis Bouanga,LAFC,Defensive Mid,Chicho Arango,Real Salt Lake,Forward,75.1
+Denis Bouanga,LAFC,Defensive Mid,Pablo Ruiz,Real Salt Lake,Central Mid,94.15
+Denis Bouanga,LAFC,Defensive Mid,Justen Glad,Real Salt Lake,Center Back,84.38
+Denis Bouanga,LAFC,Defensive Mid,Braian Ojeda,Real Salt Lake,Defensive Mid,63.7
+Denis Bouanga,LAFC,Defensive Mid,Luciano Acosta,FC Cincinnati,Attacking Mid,78.71
+Denis Bouanga,LAFC,Defensive Mid,Riqui Puig,LA Galaxy,Forward,60.21
+Denis Bouanga,LAFC,Defensive Mid,Hany Mukhtar,Nashville SC,Central Mid,92.46
+Denis Bouanga,LAFC,Defensive Mid,Cucho Hernández,Columbus Crew,Center Back,74.22
+Denis Bouanga,LAFC,Defensive Mid,Evander,Portland Timbers,Attacking Mid,80.18
+Denis Bouanga,LAFC,Defensive Mid,Emil Forsberg,NY Red Bulls,Forward,68.81
+Denis Bouanga,LAFC,Defensive Mid,Hector Herrera,Houston Dynamo,Central Mid,63.38
+Denis Bouanga,LAFC,Defensive Mid,Carles Gil,New England Revolution,Center Back,74.97
+Denis Bouanga,LAFC,Defensive Mid,Matt Miazga,FC Cincinnati,Defensive Mid,83.74
+Evander,Portland Timbers,Attacking Mid,Diego Luna,Real Salt Lake,Attacking Mid,66.18
+Evander,Portland Timbers,Attacking Mid,Chicho Arango,Real Salt Lake,Forward,48.99
+Evander,Portland Timbers,Attacking Mid,Pablo Ruiz,Real Salt Lake,Central Mid,79.52
+Evander,Portland Timbers,Attacking Mid,Justen Glad,Real Salt Lake,Center Back,64.02
+Evander,Portland Timbers,Attacking Mid,Braian Ojeda,Real Salt Lake,Defensive Mid,44.92
+Evander,Portland Timbers,Attacking Mid,Luciano Acosta,FC Cincinnati,Attacking Mid,83.03
+Evander,Portland Timbers,Attacking Mid,Riqui Puig,LA Galaxy,Forward,68.96
+Evander,Portland Timbers,Attacking Mid,Hany Mukhtar,Nashville SC,Central Mid,76.27
+Evander,Portland Timbers,Attacking Mid,Cucho Hernández,Columbus Crew,Center Back,63.92
+Evander,Portland Timbers,Attacking Mid,Denis Bouanga,LAFC,Defensive Mid,80.18
+Evander,Portland Timbers,Attacking Mid,Emil Forsberg,NY Red Bulls,Forward,31.11
+Evander,Portland Timbers,Attacking Mid,Hector Herrera,Houston Dynamo,Central Mid,48.62
+Evander,Portland Timbers,Attacking Mid,Carles Gil,New England Revolution,Center Back,62.3
+Evander,Portland Timbers,Attacking Mid,Matt Miazga,FC Cincinnati,Defensive Mid,65.54
+Emil Forsberg,NY Red Bulls,Forward,Diego Luna,Real Salt Lake,Attacking Mid,78.13
+Emil Forsberg,NY Red Bulls,Forward,Chicho Arango,Real Salt Lake,Forward,94.77
+Emil Forsberg,NY Red Bulls,Forward,Pablo Ruiz,Real Salt Lake,Central Mid,55.92
+Emil Forsberg,NY Red Bulls,Forward,Justen Glad,Real Salt Lake,Center Back,76.79
+Emil Forsberg,NY Red Bulls,Forward,Braian Ojeda,Real Salt Lake,Defensive Mid,52.38
+Emil Forsberg,NY Red Bulls,Forward,Luciano Acosta,FC Cincinnati,Attacking Mid,62.37
+Emil Forsberg,NY Red Bulls,Forward,Riqui Puig,LA Galaxy,Forward,53.21
+Emil Forsberg,NY Red Bulls,Forward,Hany Mukhtar,Nashville SC,Central Mid,64.23
+Emil Forsberg,NY Red Bulls,Forward,Cucho Hernández,Columbus Crew,Center Back,56.88
+Emil Forsberg,NY Red Bulls,Forward,Denis Bouanga,LAFC,Defensive Mid,68.81
+Emil Forsberg,NY Red Bulls,Forward,Evander,Portland Timbers,Attacking Mid,31.11
+Emil Forsberg,NY Red Bulls,Forward,Hector Herrera,Houston Dynamo,Central Mid,86.26
+Emil Forsberg,NY Red Bulls,Forward,Carles Gil,New England Revolution,Center Back,71.67
+Emil Forsberg,NY Red Bulls,Forward,Matt Miazga,FC Cincinnati,Defensive Mid,62.05
+Hector Herrera,Houston Dynamo,Central Mid,Diego Luna,Real Salt Lake,Attacking Mid,64.35
+Hector Herrera,Houston Dynamo,Central Mid,Chicho Arango,Real Salt Lake,Forward,94.04
+Hector Herrera,Houston Dynamo,Central Mid,Pablo Ruiz,Real Salt Lake,Central Mid,63.86
+Hector Herrera,Houston Dynamo,Central Mid,Justen Glad,Real Salt Lake,Center Back,63.12
+Hector Herrera,Houston Dynamo,Central Mid,Braian Ojeda,Real Salt Lake,Defensive Mid,28.11
+Hector Herrera,Houston Dynamo,Central Mid,Luciano Acosta,FC Cincinnati,Attacking Mid,59.95
+Hector Herrera,Houston Dynamo,Central Mid,Riqui Puig,LA Galaxy,Forward,50.83
+Hector Herrera,Houston Dynamo,Central Mid,Hany Mukhtar,Nashville SC,Central Mid,65.48
+Hector Herrera,Houston Dynamo,Central Mid,Cucho Hernández,Columbus Crew,Center Back,53.6
+Hector Herrera,Houston Dynamo,Central Mid,Denis Bouanga,LAFC,Defensive Mid,63.38
+Hector Herrera,Houston Dynamo,Central Mid,Evander,Portland Timbers,Attacking Mid,48.62
+Hector Herrera,Houston Dynamo,Central Mid,Emil Forsberg,NY Red Bulls,Forward,86.26
+Hector Herrera,Houston Dynamo,Central Mid,Carles Gil,New England Revolution,Center Back,58.76
+Hector Herrera,Houston Dynamo,Central Mid,Matt Miazga,FC Cincinnati,Defensive Mid,43.57
+Carles Gil,New England Revolution,Center Back,Diego Luna,Real Salt Lake,Attacking Mid,80.58
+Carles Gil,New England Revolution,Center Back,Chicho Arango,Real Salt Lake,Forward,66.8
+Carles Gil,New England Revolution,Center Back,Pablo Ruiz,Real Salt Lake,Central Mid,55.11
+Carles Gil,New England Revolution,Center Back,Justen Glad,Real Salt Lake,Center Back,79.95
+Carles Gil,New England Revolution,Center Back,Braian Ojeda,Real Salt Lake,Defensive Mid,76.44
+Carles Gil,New England Revolution,Center Back,Luciano Acosta,FC Cincinnati,Attacking Mid,83.79
+Carles Gil,New England Revolution,Center Back,Riqui Puig,LA Galaxy,Forward,59.87
+Carles Gil,New England Revolution,Center Back,Hany Mukhtar,Nashville SC,Central Mid,51.76
+Carles Gil,New England Revolution,Center Back,Cucho Hernández,Columbus Crew,Center Back,47.32
+Carles Gil,New England Revolution,Center Back,Denis Bouanga,LAFC,Defensive Mid,74.97
+Carles Gil,New England Revolution,Center Back,Evander,Portland Timbers,Attacking Mid,62.3
+Carles Gil,New England Revolution,Center Back,Emil Forsberg,NY Red Bulls,Forward,71.67
+Carles Gil,New England Revolution,Center Back,Hector Herrera,Houston Dynamo,Central Mid,58.76
+Carles Gil,New England Revolution,Center Back,Matt Miazga,FC Cincinnati,Defensive Mid,78.43
+Matt Miazga,FC Cincinnati,Defensive Mid,Diego Luna,Real Salt Lake,Attacking Mid,84.21
+Matt Miazga,FC Cincinnati,Defensive Mid,Chicho Arango,Real Salt Lake,Forward,66.48
+Matt Miazga,FC Cincinnati,Defensive Mid,Pablo Ruiz,Real Salt Lake,Central Mid,66.39
+Matt Miazga,FC Cincinnati,Defensive Mid,Justen Glad,Real Salt Lake,Center Back,66.0
+Matt Miazga,FC Cincinnati,Defensive Mid,Braian Ojeda,Real Salt Lake,Defensive Mid,50.5
+Matt Miazga,FC Cincinnati,Defensive Mid,Luciano Acosta,FC Cincinnati,Attacking Mid,76.96
+Matt Miazga,FC Cincinnati,Defensive Mid,Riqui Puig,LA Galaxy,Forward,70.76
+Matt Miazga,FC Cincinnati,Defensive Mid,Hany Mukhtar,Nashville SC,Central Mid,76.94
+Matt Miazga,FC Cincinnati,Defensive Mid,Cucho Hernández,Columbus Crew,Center Back,45.08
+Matt Miazga,FC Cincinnati,Defensive Mid,Denis Bouanga,LAFC,Defensive Mid,83.74
+Matt Miazga,FC Cincinnati,Defensive Mid,Evander,Portland Timbers,Attacking Mid,65.54
+Matt Miazga,FC Cincinnati,Defensive Mid,Emil Forsberg,NY Red Bulls,Forward,62.05
+Matt Miazga,FC Cincinnati,Defensive Mid,Hector Herrera,Houston Dynamo,Central Mid,43.57
+Matt Miazga,FC Cincinnati,Defensive Mid,Carles Gil,New England Revolution,Center Back,78.43
